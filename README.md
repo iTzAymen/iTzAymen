@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @iTzAymen
-- 👀 I’m interested in Game Developing and machine learning
-- 🌱 I’m currently learning Linear regression
+- 👋 Hi, I’m Aymen
+- 👀 I’m interested in Artificial Intelligence, Web Development and Game Development
+- 🌱 I’m currently Researching Deep neural networks
 - 💞️ I’m looking to collaborate on some projects
 - 📫 How to reach me : Discord : Aymen#8038
 
